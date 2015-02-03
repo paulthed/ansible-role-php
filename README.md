@@ -1,5 +1,10 @@
 # Ansible Role: PHP
 
+## My changes
+ Changed the default post_max_size = 70M
+
+---
+
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-php.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-php)
 
 Installs PHP on RedHat/CentOS and Debian/Ubuntu servers.
